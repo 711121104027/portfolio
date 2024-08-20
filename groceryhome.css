@@ -1,0 +1,4146 @@
+.grocery-home {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.grocery-home .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 14492px;
+  position: relative;
+}
+
+.grocery-home .menu {
+  position: absolute;
+  width: 1440px;
+  height: 81px;
+  top: 0;
+  left: 0;
+}
+
+.grocery-home .text-wrapper {
+  position: absolute;
+  top: 26px;
+  left: 40px;
+  font-family: "Jura-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.grocery-home .about-me {
+  position: absolute;
+  width: 94px;
+  height: 24px;
+  top: 37px;
+  left: 877px;
+}
+
+.grocery-home .text-wrapper-2 {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.grocery-home .text-wrapper-2-2 {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #0008ff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .contact {
+  position: absolute;
+  width: 67px;
+  height: 30px;
+  top: 37px;
+  left: 1269px;
+}
+
+.grocery-home .resume {
+  position: absolute;
+  width: 70px;
+  height: 30px;
+  top: 37px;
+  left: 1136px;
+}
+
+.grocery-home .work {
+  position: absolute;
+  width: 47px;
+  height: 30px;
+  top: 37px;
+  left: 1026px;
+}
+
+.grocery-home .grocery {
+  position: absolute;
+  width: 1440px;
+  height: 14411px;
+  top: 81px;
+  left: 0;
+  background-color: #ffffff;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.grocery-home .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 763px;
+  top: 0;
+  left: 0;
+  background-color: #92e4ff;
+}
+
+.grocery-home .text-wrapper-3 {
+  position: absolute;
+  top: 55px;
+  left: 765px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: 89px;
+  white-space: nowrap;
+}
+
+.grocery-home .improve-the-user {
+  position: absolute;
+  top: 156px;
+  left: 765px;
+  font-family: "Open Sans-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 61.2px;
+}
+
+.grocery-home .text-wrapper-4 {
+  position: absolute;
+  top: 80px;
+  left: 1085px;
+  font-family: "Titillium Web-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #686868;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 53.4px;
+  white-space: nowrap;
+}
+
+.grocery-home .text-wrapper-5 {
+  top: 320px;
+  left: 766px;
+  color: #000000;
+  font-size: 25px;
+  line-height: 42.5px;
+  position: absolute;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.grocery-home .text-wrapper-6 {
+  position: absolute;
+  top: 371px;
+  left: 766px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 42.5px;
+  white-space: nowrap;
+}
+
+.grocery-home .text-wrapper-7 {
+  position: absolute;
+  top: 416px;
+  left: 765px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 42.5px;
+  white-space: nowrap;
+}
+
+.grocery-home .p {
+  position: absolute;
+  top: 329px;
+  left: 940px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 30.6px;
+  white-space: nowrap;
+}
+
+.grocery-home .text-wrapper-8 {
+  position: absolute;
+  top: 380px;
+  left: 839px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 30.6px;
+  white-space: nowrap;
+}
+
+.grocery-home .text-wrapper-9 {
+  position: absolute;
+  top: 425px;
+  left: 885px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 30.6px;
+  white-space: nowrap;
+}
+
+.grocery-home .text-wrapper-10 {
+  position: absolute;
+  top: 461px;
+  left: 765px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 42.5px;
+  white-space: nowrap;
+}
+
+.grocery-home .text-wrapper-11 {
+  position: absolute;
+  top: 470px;
+  left: 855px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 30.6px;
+  white-space: nowrap;
+}
+
+.grocery-home .overview-the-user {
+  position: absolute;
+  width: 651px;
+  top: 514px;
+  left: 766px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 30.5px;
+}
+
+.grocery-home .span {
+  font-weight: 700;
+}
+
+.grocery-home .text-wrapper-12 {
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 18px;
+  line-height: 30.6px;
+}
+
+.grocery-home .group {
+  position: absolute;
+  width: 389px;
+  height: 55px;
+  top: 642px;
+  left: 765px;
+}
+
+.grocery-home .overlap-group {
+  position: relative;
+  width: 387px;
+  height: 55px;
+  background-color: #f2c94c;
+  border-radius: 30px;
+  box-shadow: 5px 5px 5px #00000040;
+}
+
+.grocery-home .text-wrapper-13 {
+  position: absolute;
+  top: 6px;
+  left: 80px;
+  font-family: "Open Sans-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #525252;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 42.5px;
+  white-space: nowrap;
+}
+
+.grocery-home .overlap-wrapper {
+  position: absolute;
+  width: 570px;
+  height: 397px;
+  top: 134px;
+  left: 66px;
+}
+
+.grocery-home .overlap-2 {
+  position: relative;
+  height: 397px;
+}
+
+.grocery-home .blob {
+  position: absolute;
+  width: 570px;
+  height: 225px;
+  top: 172px;
+  left: 0;
+}
+
+.grocery-home .img {
+  position: absolute;
+  width: 424px;
+  height: 396px;
+  top: 0;
+  left: 90px;
+  object-fit: cover;
+}
+
+.grocery-home .overlap-group-wrapper {
+  position: absolute;
+  width: 1442px;
+  height: 823px;
+  top: 763px;
+  left: 0;
+}
+
+.grocery-home .overlap-3 {
+  position: relative;
+  width: 1450px;
+  height: 823px;
+}
+
+.grocery-home .text-wrapper-14 {
+  position: absolute;
+  top: 37px;
+  left: 34px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.grocery-home .div-wrapper {
+  position: absolute;
+  width: 1450px;
+  height: 823px;
+  top: 0;
+  left: 0;
+}
+
+.grocery-home .overlap-group-2 {
+  position: relative;
+  width: 1440px;
+  height: 823px;
+  background-image: url(greenmat.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.grocery-home .text-wrapper-15 {
+  position: absolute;
+  width: 362px;
+  top: 30px;
+  left: 34px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.grocery-home .text-wrapper-16 {
+  position: absolute;
+  width: 217px;
+  top: 30px;
+  left: 1109px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.grocery-home .screenshot {
+  position: absolute;
+  width: 355px;
+  height: 695px;
+  top: 105px;
+  left: 958px;
+  object-fit: cover;
+}
+
+.grocery-home .text-wrapper-17 {
+  position: absolute;
+  width: 190px;
+  top: 665px;
+  left: 34px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.grocery-home .image {
+  position: absolute;
+  width: 71px;
+  height: 57px;
+  top: 724px;
+  left: 58px;
+  object-fit: cover;
+}
+
+.grocery-home .image-2 {
+  position: absolute;
+  width: 67px;
+  height: 57px;
+  top: 724px;
+  left: 155px;
+  object-fit: cover;
+}
+
+.grocery-home .logo {
+  position: absolute;
+  width: 149px;
+  height: 120px;
+  top: 237px;
+  left: 351px;
+  object-fit: cover;
+}
+
+.grocery-home .text-wrapper-18 {
+  position: absolute;
+  width: 314px;
+  top: 383px;
+  left: 278px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.grocery-home .your-personalized {
+  position: absolute;
+  width: 254px;
+  top: 434px;
+  left: 299px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .group-2 {
+  position: absolute;
+  width: 1444px;
+  height: 746px;
+  top: 1586px;
+  left: 0;
+}
+
+.grocery-home .overlap-4 {
+  position: relative;
+  width: 1440px;
+  height: 746px;
+  background-color: #ffffff;
+}
+
+.grocery-home .screenshot-2 {
+  width: 290px;
+  height: 568px;
+  top: 145px;
+  left: 991px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.grocery-home .text-wrapper-19 {
+  position: absolute;
+  top: 31px;
+  left: 585px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #14ff00;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-20 {
+  position: absolute;
+  width: 895px;
+  top: 217px;
+  left: 63px;
+  font-family: "Open Sans-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 44.8px;
+}
+
+.grocery-home .group-3 {
+  position: absolute;
+  width: 1458px;
+  height: 901px;
+  top: 2340px;
+  left: 0;
+}
+
+.grocery-home .overlap-5 {
+  position: relative;
+  width: 1440px;
+  height: 901px;
+  background-image: url(greenmat.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.grocery-home .overlap-group-3 {
+  position: absolute;
+  width: 656px;
+  height: 347px;
+  top: 45px;
+  left: 37px;
+  background-color: #ffffff80;
+  border-radius: 15px;
+  border: 3px solid;
+  border-color: #000000;
+}
+
+.grocery-home .text-wrapper-21 {
+  position: absolute;
+  top: 22px;
+  left: 17px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .shoppers-often-face {
+  position: absolute;
+  width: 620px;
+  top: 70px;
+  left: 17px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 27.6px;
+}
+
+.grocery-home .overlap-6 {
+  position: absolute;
+  width: 1372px;
+  height: 347px;
+  top: 464px;
+  left: 37px;
+  background-color: #ffffff80;
+  border-radius: 15px;
+  border: 3px solid;
+  border-color: #000000;
+}
+
+.grocery-home .text-wrapper-22 {
+  position: absolute;
+  top: 21px;
+  left: 17px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-23 {
+  position: absolute;
+  width: 232px;
+  top: 77px;
+  left: 17px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-24 {
+  position: absolute;
+  top: 127px;
+  left: 43px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 29.8px;
+  white-space: nowrap;
+}
+
+.grocery-home .secondary-users {
+  position: absolute;
+  width: 232px;
+  top: 177px;
+  left: 17px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-25 {
+  position: absolute;
+  top: 227px;
+  left: 43px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 29.8px;
+  white-space: nowrap;
+}
+
+.grocery-home .overlap-7 {
+  position: absolute;
+  width: 647px;
+  height: 347px;
+  top: 45px;
+  left: 762px;
+  background-color: #ffffff80;
+  border-radius: 15px;
+  border: 3px solid;
+  border-color: #000000;
+}
+
+.grocery-home .text-wrapper-26 {
+  position: absolute;
+  top: 15px;
+  left: 11px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .the-solution-is-to {
+  position: absolute;
+  width: 620px;
+  top: 63px;
+  left: 11px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.grocery-home .overlap-8 {
+  position: absolute;
+  width: 1462px;
+  height: 2333px;
+  top: 3246px;
+  left: 0;
+}
+
+.grocery-home .group-4 {
+  position: absolute;
+  width: 1462px;
+  height: 741px;
+  top: 0;
+  left: 0;
+}
+
+.grocery-home .overlap-9 {
+  position: relative;
+  width: 1440px;
+  height: 741px;
+  background-color: #ffffff;
+}
+
+.grocery-home .user-research {
+  position: absolute;
+  top: 346px;
+  left: 101px;
+  font-family: "Open Sans-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 37.3px;
+}
+
+.grocery-home .user-segmentation {
+  position: absolute;
+  top: 512px;
+  left: 408px;
+  font-family: "Open Sans-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 37.3px;
+}
+
+.grocery-home .app-values-features {
+  position: absolute;
+  top: 378px;
+  left: 680px;
+  font-family: "Open Sans-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 37.3px;
+}
+
+.grocery-home .wireframe-design {
+  position: absolute;
+  top: 540px;
+  left: 986px;
+  font-family: "Open Sans-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 37.3px;
+}
+
+.grocery-home .text-wrapper-27 {
+  position: absolute;
+  top: 392px;
+  left: 1219px;
+  font-family: "Open Sans-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 37.3px;
+  white-space: nowrap;
+}
+
+.grocery-home .screenshot-3 {
+  width: 141px;
+  height: 126px;
+  top: 164px;
+  left: 108px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.grocery-home .text-wrapper-28 {
+  position: absolute;
+  top: 38px;
+  left: 568px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #27a82c;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 59.7px;
+  white-space: nowrap;
+}
+
+.grocery-home .overlap-10 {
+  position: absolute;
+  width: 160px;
+  height: 179px;
+  top: 323px;
+  left: 408px;
+}
+
+.grocery-home .screenshot-4 {
+  width: 160px;
+  height: 135px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.grocery-home .text-wrapper-29 {
+  position: absolute;
+  top: 134px;
+  left: 58px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #14ff00;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 44.8px;
+  white-space: nowrap;
+}
+
+.grocery-home .overlap-group-4 {
+  position: absolute;
+  width: 219px;
+  height: 191px;
+  top: 164px;
+  left: 623px;
+}
+
+.grocery-home .screenshot-5 {
+  width: 219px;
+  height: 149px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.grocery-home .text-wrapper-30 {
+  position: absolute;
+  top: 146px;
+  left: 96px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #14ff00;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 44.8px;
+  white-space: nowrap;
+}
+
+.grocery-home .screenshot-6 {
+  width: 205px;
+  height: 147px;
+  top: 318px;
+  left: 946px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.grocery-home .screenshot-7 {
+  width: 236px;
+  height: 141px;
+  top: 192px;
+  left: 1171px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.grocery-home .text-wrapper-31 {
+  position: absolute;
+  top: 295px;
+  left: 104px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #14ff00;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 44.8px;
+  white-space: nowrap;
+}
+
+.grocery-home .text-wrapper-32 {
+  position: absolute;
+  top: 479px;
+  left: 997px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #14ff00;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 44.8px;
+  white-space: nowrap;
+}
+
+.grocery-home .text-wrapper-33 {
+  position: absolute;
+  top: 341px;
+  left: 1263px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #14ff00;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 44.8px;
+  white-space: nowrap;
+}
+
+.grocery-home .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 1649px;
+  top: 684px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.grocery-home .easy-sign-up-with {
+  position: absolute;
+  width: 348px;
+  top: 1009px;
+  left: 31px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 29.8px;
+}
+
+.grocery-home .text-wrapper-34 {
+  position: absolute;
+  top: 713px;
+  left: 589px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #27a82c;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 59.7px;
+  white-space: nowrap;
+}
+
+.grocery-home .text-wrapper-35 {
+  top: 1482px;
+  left: 589px;
+  color: #27a82c;
+  font-size: 40px;
+  line-height: 59.7px;
+  position: absolute;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.grocery-home .user-registration {
+  position: absolute;
+  top: 961px;
+  left: 26px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #14ff00;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .AI-driven {
+  position: absolute;
+  width: 348px;
+  top: 1298px;
+  left: 350px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 29.8px;
+}
+
+.grocery-home .text-wrapper-36 {
+  position: absolute;
+  top: 1245px;
+  left: 360px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #14ff00;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .schedule-home {
+  position: absolute;
+  width: 348px;
+  top: 1319px;
+  left: 872px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 29.8px;
+}
+
+.grocery-home .text-wrapper-37 {
+  position: absolute;
+  top: 1259px;
+  left: 882px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #14ff00;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .advanced-search {
+  position: absolute;
+  width: 348px;
+  top: 1016px;
+  left: 613px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 29.8px;
+}
+
+.grocery-home .text-wrapper-38 {
+  position: absolute;
+  top: 961px;
+  left: 628px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #14ff00;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .access-to-special {
+  position: absolute;
+  width: 335px;
+  top: 985px;
+  left: 1095px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 29.8px;
+}
+
+.grocery-home .text-wrapper-39 {
+  position: absolute;
+  top: 937px;
+  left: 1108px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #14ff00;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .image-3 {
+  position: absolute;
+  width: 159px;
+  height: 155px;
+  top: 798px;
+  left: 97px;
+}
+
+.grocery-home .removebg {
+  position: absolute;
+  width: 156px;
+  height: 144px;
+  top: 809px;
+  left: 676px;
+  object-fit: cover;
+}
+
+.grocery-home .image-4 {
+  position: absolute;
+  width: 123px;
+  height: 129px;
+  top: 1113px;
+  left: 985px;
+  object-fit: cover;
+}
+
+.grocery-home .image-5 {
+  position: absolute;
+  width: 144px;
+  height: 142px;
+  top: 790px;
+  left: 1183px;
+}
+
+.grocery-home .image-6 {
+  position: absolute;
+  width: 132px;
+  height: 141px;
+  top: 1092px;
+  left: 457px;
+  object-fit: cover;
+}
+
+.grocery-home .text-wrapper-40 {
+  position: absolute;
+  width: 808px;
+  top: 1656px;
+  left: 44px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 47px;
+}
+
+.grocery-home .screenshot-8 {
+  width: 357px;
+  height: 699px;
+  top: 1591px;
+  left: 937px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.grocery-home .overlap-11 {
+  position: absolute;
+  width: 1440px;
+  height: 1223px;
+  top: 5579px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.grocery-home .use-in-menu-and {
+  position: absolute;
+  top: 1100px;
+  left: 56px;
+  font-family: "Open Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .use-in-the-filter {
+  position: absolute;
+  top: 1100px;
+  left: 413px;
+  font-family: "Open Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .use-in-text-color {
+  position: absolute;
+  top: 1101px;
+  left: 817px;
+  font-family: "Open Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .use-in-text-color-in {
+  position: absolute;
+  top: 1101px;
+  left: 1145px;
+  font-family: "Open Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .inter-is-offered-as {
+  position: absolute;
+  width: 779px;
+  top: 201px;
+  left: 582px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 44.8px;
+}
+
+.grocery-home .text-wrapper-41 {
+  position: absolute;
+  top: 332px;
+  left: 46px;
+  font-family: "Open Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 29.8px;
+}
+
+.grocery-home .text-wrapper-42 {
+  position: absolute;
+  top: 208px;
+  left: 90px;
+  font-family: "Open Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #ff9567;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 89.5px;
+  white-space: nowrap;
+}
+
+.grocery-home .screenshot-9 {
+  position: absolute;
+  width: 259px;
+  height: 74px;
+  top: 952px;
+  left: 793px;
+  object-fit: cover;
+}
+
+.grocery-home .text-wrapper-43 {
+  position: absolute;
+  top: 1048px;
+  left: 806px;
+  font-family: "Open Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-44 {
+  position: absolute;
+  top: 1051px;
+  left: 1154px;
+  font-family: "Open Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .screenshot-10 {
+  position: absolute;
+  width: 236px;
+  height: 64px;
+  top: 952px;
+  left: 1140px;
+  object-fit: cover;
+}
+
+.grocery-home .screenshot-11 {
+  position: absolute;
+  width: 256px;
+  height: 71px;
+  top: 952px;
+  left: 46px;
+  object-fit: cover;
+}
+
+.grocery-home .screenshot-12 {
+  position: absolute;
+  width: 284px;
+  height: 71px;
+  top: 952px;
+  left: 402px;
+  object-fit: cover;
+}
+
+.grocery-home .text-wrapper-45 {
+  position: absolute;
+  top: 1045px;
+  left: 69px;
+  font-family: "Open Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-46 {
+  position: absolute;
+  top: 1045px;
+  left: 423px;
+  font-family: "Open Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .typography-colors {
+  position: absolute;
+  top: 23px;
+  left: 515px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #27a82c;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 59.7px;
+  white-space: nowrap;
+}
+
+.grocery-home .text-wrapper-47 {
+  position: absolute;
+  top: 122px;
+  left: 35px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #14ff00;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: 52.2px;
+  white-space: nowrap;
+}
+
+.grocery-home .text-wrapper-48 {
+  position: absolute;
+  top: 836px;
+  left: 35px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #14ff00;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: 52.2px;
+  white-space: nowrap;
+}
+
+.grocery-home .overlap-12 {
+  position: absolute;
+  width: 805px;
+  height: 243px;
+  top: 531px;
+  left: 556px;
+  background-color: #ffffff;
+  border: 3px solid;
+  border-color: #ff6b00;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.grocery-home .text-wrapper-49 {
+  top: 43px;
+  left: 56px;
+  position: absolute;
+  font-family: "Titillium Web-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 44.8px;
+  white-space: nowrap;
+}
+
+.grocery-home .text-wrapper-50 {
+  top: 132px;
+  left: 56px;
+  position: absolute;
+  font-family: "Titillium Web-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 44.8px;
+  white-space: nowrap;
+}
+
+.grocery-home .text-wrapper-51 {
+  top: 132px;
+  left: 313px;
+  position: absolute;
+  font-family: "Titillium Web-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 44.8px;
+  white-space: nowrap;
+}
+
+.grocery-home .text-wrapper-52 {
+  top: 43px;
+  left: 313px;
+  position: absolute;
+  font-family: "Titillium Web-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 44.8px;
+  white-space: nowrap;
+}
+
+.grocery-home .text-wrapper-53 {
+  position: absolute;
+  top: 43px;
+  left: 570px;
+  font-family: "Titillium Web-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 44.8px;
+  white-space: nowrap;
+}
+
+.grocery-home .text-wrapper-54 {
+  top: 132px;
+  left: 570px;
+  position: absolute;
+  font-family: "Titillium Web-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 44.8px;
+  white-space: nowrap;
+}
+
+.grocery-home .text-wrapper-55 {
+  top: 6890px;
+  left: 624px;
+  line-height: 59.7px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #27a82c;
+  font-size: 40px;
+  letter-spacing: 0;
+}
+
+.grocery-home .overlap-13 {
+  position: absolute;
+  width: 1395px;
+  height: 895px;
+  top: 6998px;
+  left: 22px;
+  background-color: #ffffff;
+  border-radius: 15px;
+  border: 1px solid;
+  border-color: #a7a7a7;
+  box-shadow: 5px 5px 5px #00000040;
+}
+
+.grocery-home .overlap-14 {
+  position: absolute;
+  width: 464px;
+  height: 833px;
+  top: 24px;
+  left: 46px;
+  background-color: #efefef;
+  border-radius: 15px;
+}
+
+.grocery-home .ellipse {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  top: 38px;
+  left: 128px;
+}
+
+.grocery-home .i-design-with-all-my {
+  position: absolute;
+  top: 257px;
+  left: 103px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .AGE {
+  position: absolute;
+  top: 350px;
+  left: 33px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .JOB-TITLE-UX {
+  position: absolute;
+  top: 403px;
+  left: 33px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .STATUS-UX-designer {
+  position: absolute;
+  top: 452px;
+  left: 33px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-56 {
+  position: absolute;
+  top: 496px;
+  left: 33px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .overlap-group-5 {
+  position: absolute;
+  width: 197px;
+  height: 35px;
+  top: 563px;
+  left: 33px;
+  background-color: #9d9d9d;
+}
+
+.grocery-home .text-wrapper-57 {
+  position: absolute;
+  top: 5px;
+  left: 40px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .overlap-15 {
+  position: absolute;
+  width: 160px;
+  height: 35px;
+  top: 613px;
+  left: 33px;
+  background-color: #9d9d9d;
+}
+
+.grocery-home .text-wrapper-58 {
+  position: absolute;
+  top: 5px;
+  left: 37px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .overlap-group-6 {
+  position: absolute;
+  width: 216px;
+  height: 35px;
+  top: 613px;
+  left: 226px;
+  background-color: #9d9d9d;
+}
+
+.grocery-home .text-wrapper-59 {
+  position: absolute;
+  top: 5px;
+  left: 36px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .overlap-16 {
+  position: absolute;
+  width: 197px;
+  height: 35px;
+  top: 563px;
+  left: 245px;
+  background-color: #9d9d9d;
+}
+
+.grocery-home .text-wrapper-60 {
+  position: absolute;
+  top: 5px;
+  left: 39px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .frame {
+  position: absolute;
+  width: 345px;
+  height: 81px;
+  top: 696px;
+  left: 33px;
+}
+
+.grocery-home .text-wrapper-61 {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  font-family: "Avenir-Book", Helvetica;
+  font-weight: 400;
+  color: #181818;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .object {
+  position: absolute;
+  width: 135px;
+  height: 45px;
+  top: 35px;
+  left: 210px;
+}
+
+.grocery-home .facebook {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 35px;
+  left: 0;
+}
+
+.grocery-home .linkedin {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 35px;
+  left: 70px;
+  background-image: url(link.png);
+  background-size: 100% 100%;
+}
+
+.grocery-home .spotify {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 35px;
+  left: 140px;
+  background-image: url(spotify.png);
+  background-size: 100% 100%;
+}
+
+.grocery-home .text-wrapper-62 {
+  top: 37px;
+  position: absolute;
+  left: 534px;
+  font-family: "Open Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-63 {
+  position: absolute;
+  top: 70px;
+  left: 538px;
+  font-family: "Open Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-64 {
+  position: absolute;
+  top: 193px;
+  left: 534px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 21.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-65 {
+  position: absolute;
+  top: 383px;
+  left: 534px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 21.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-66 {
+  position: absolute;
+  top: 383px;
+  left: 972px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 21.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-67 {
+  position: absolute;
+  top: 589px;
+  left: 534px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 21.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-68 {
+  position: absolute;
+  top: 589px;
+  left: 972px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 21.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-69 {
+  width: 808px;
+  top: 235px;
+  left: 534px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22.1px;
+  position: absolute;
+  color: #181818;
+  letter-spacing: 0;
+}
+
+.grocery-home .save-time-on-grocery {
+  position: absolute;
+  width: 398px;
+  top: 436px;
+  left: 545px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #181818;
+  font-size: 17.9px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .smart-grocery-list {
+  position: absolute;
+  width: 398px;
+  top: 642px;
+  left: 545px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #181818;
+  font-size: 19.5px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .finds-grocery {
+  position: absolute;
+  width: 398px;
+  top: 436px;
+  left: 973px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #181818;
+  font-size: 18.7px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .frame-2 {
+  position: absolute;
+  width: 404px;
+  height: 200px;
+  top: 636px;
+  left: 967px;
+}
+
+.grocery-home .overlap-17 {
+  position: absolute;
+  width: 404px;
+  height: 32px;
+  top: 169px;
+  left: 0;
+}
+
+.grocery-home .overlap-18 {
+  position: absolute;
+  width: 401px;
+  height: 16px;
+  top: 15px;
+  left: 3px;
+}
+
+.grocery-home .line-copy {
+  position: absolute;
+  width: 401px;
+  height: 4px;
+  top: 8px;
+  left: 0;
+}
+
+.grocery-home .oval-copy {
+  left: 276px;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 0;
+  background-color: #7b7b7b;
+  border-radius: 8.08px/8.12px;
+  border: 1.8px solid;
+  border-color: #ffffff;
+}
+
+.grocery-home .text-wrapper-70 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Avenir-Roman", Helvetica;
+  font-weight: 400;
+  color: #181818;
+  font-size: 13.5px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-71 {
+  position: absolute;
+  top: 0;
+  left: 330px;
+  font-family: "Avenir-Roman", Helvetica;
+  font-weight: 400;
+  color: #181818;
+  font-size: 13.5px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .overlap-19 {
+  position: absolute;
+  width: 404px;
+  height: 33px;
+  top: 126px;
+  left: 0;
+}
+
+.grocery-home .overlap-20 {
+  position: absolute;
+  width: 401px;
+  height: 16px;
+  top: 16px;
+  left: 3px;
+}
+
+.grocery-home .img-2 {
+  position: absolute;
+  width: 401px;
+  height: 4px;
+  top: 7px;
+  left: 0;
+}
+
+.grocery-home .oval-copy-2 {
+  left: 203px;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 0;
+  background-color: #7b7b7b;
+  border-radius: 8.08px/8.12px;
+  border: 1.8px solid;
+  border-color: #ffffff;
+}
+
+.grocery-home .text-wrapper-72 {
+  position: absolute;
+  top: 0;
+  left: 340px;
+  font-family: "Avenir-Roman", Helvetica;
+  font-weight: 400;
+  color: #181818;
+  font-size: 13.5px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .overlap-21 {
+  position: absolute;
+  width: 404px;
+  height: 33px;
+  top: 84px;
+  left: 0;
+}
+
+.grocery-home .oval-copy-3 {
+  left: 103px;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 0;
+  background-color: #7b7b7b;
+  border-radius: 8.08px/8.12px;
+  border: 1.8px solid;
+  border-color: #ffffff;
+}
+
+.grocery-home .text-wrapper-73 {
+  position: absolute;
+  top: 0;
+  left: 348px;
+  font-family: "Avenir-Roman", Helvetica;
+  font-weight: 400;
+  color: #181818;
+  font-size: 13.5px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .overlap-22 {
+  position: absolute;
+  width: 404px;
+  height: 33px;
+  top: 41px;
+  left: 0;
+}
+
+.grocery-home .oval-copy-4 {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 0;
+  left: 290px;
+  background-color: #7b7b7b;
+  border-radius: 8.08px/8.12px;
+  border: 1.8px solid;
+  border-color: #ffffff;
+}
+
+.grocery-home .text-wrapper-74 {
+  position: absolute;
+  top: 0;
+  left: 353px;
+  font-family: "Avenir-Roman", Helvetica;
+  font-weight: 400;
+  color: #181818;
+  font-size: 13.5px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .overlap-23 {
+  position: absolute;
+  width: 404px;
+  height: 33px;
+  top: -1px;
+  left: 0;
+}
+
+.grocery-home .oval {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 0;
+  left: 217px;
+  background-color: #7b7b7b;
+  border-radius: 8.08px/8.12px;
+  border: 1.8px solid;
+  border-color: #ffffff;
+}
+
+.grocery-home .overlap-24 {
+  position: absolute;
+  width: 1395px;
+  height: 924px;
+  top: 7964px;
+  left: 22px;
+  background-color: #ffffff;
+  border-radius: 15px;
+  border: 1px solid;
+  border-color: #a7a7a7;
+  box-shadow: 5px 5px 5px #00000040;
+}
+
+.grocery-home .overlap-25 {
+  position: absolute;
+  width: 464px;
+  height: 833px;
+  top: 31px;
+  left: 46px;
+  background-color: #efefef;
+  border-radius: 15px;
+}
+
+.grocery-home .text-wrapper-75 {
+  position: absolute;
+  top: 253px;
+  left: 127px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .JOB-TITLE-retired {
+  position: absolute;
+  top: 403px;
+  left: 35px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .STATUS-widowed {
+  position: absolute;
+  top: 452px;
+  left: 34px;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .linkedin-2 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 35px;
+  left: 70px;
+  background-image: url(link.png);
+  background-size: 100% 100%;
+}
+
+.grocery-home .spotify-2 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 35px;
+  left: 140px;
+  background-image: url(spotify.png);
+  background-size: 100% 100%;
+}
+
+.grocery-home .text-wrapper-76 {
+  top: 44px;
+  position: absolute;
+  left: 534px;
+  font-family: "Open Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-77 {
+  top: 77px;
+  left: 538px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 76.3px;
+  line-height: normal;
+  position: absolute;
+  color: #181818;
+  letter-spacing: 0;
+}
+
+.grocery-home .text-wrapper-78 {
+  position: absolute;
+  top: 200px;
+  left: 534px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 21.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-79 {
+  position: absolute;
+  top: 350px;
+  left: 534px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 21.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-80 {
+  position: absolute;
+  top: 350px;
+  left: 972px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 21.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-81 {
+  position: absolute;
+  top: 571px;
+  left: 534px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 21.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-82 {
+  position: absolute;
+  top: 571px;
+  left: 972px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 21.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .prefers-to-shop-for {
+  position: absolute;
+  width: 808px;
+  top: 242px;
+  left: 534px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #181818;
+  font-size: 18.9px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .simplify-grocery {
+  position: absolute;
+  width: 398px;
+  top: 403px;
+  left: 545px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #181818;
+  font-size: 17.9px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .simple-and-intuitive {
+  position: absolute;
+  width: 398px;
+  top: 624px;
+  left: 545px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #181818;
+  font-size: 19.5px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .difficulty-in {
+  position: absolute;
+  width: 398px;
+  top: 403px;
+  left: 973px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #181818;
+  font-size: 18.7px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .frame-3 {
+  position: absolute;
+  width: 404px;
+  height: 200px;
+  top: 618px;
+  left: 967px;
+}
+
+.grocery-home .text-wrapper-83 {
+  position: absolute;
+  top: 8952px;
+  left: 564px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #27a82c;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 59.7px;
+  white-space: nowrap;
+}
+
+.grocery-home .ellipse-2 {
+  position: absolute;
+  width: 299px;
+  height: 299px;
+  top: 9360px;
+  left: 589px;
+  object-fit: cover;
+}
+
+.grocery-home .i-dont-have-time-to {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 9232px;
+  left: 140px;
+}
+
+.grocery-home .how-can-i-save-time {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 9198px;
+  left: 951px;
+}
+
+.grocery-home .i-need-healthy-food {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 9232px;
+  left: 286px;
+}
+
+.grocery-home .is-there-a-way-to {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 9199px;
+  left: 1103px;
+}
+
+.grocery-home .i-often-forget-to {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 9232px;
+  left: 432px;
+}
+
+.grocery-home .i-wish-i-could-find {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 9199px;
+  left: 1255px;
+}
+
+.grocery-home .text-wrapper-84 {
+  position: absolute;
+  top: 9168px;
+  left: 97px;
+  font-family: "DM Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #5f5471;
+  font-size: 31.8px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-85 {
+  position: absolute;
+  width: 101px;
+  top: 9134px;
+  left: 871px;
+  font-family: "DM Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 32.1px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .group-5 {
+  position: absolute;
+  width: 48px;
+  height: 45px;
+  top: 9604px;
+  left: 77px;
+}
+
+.grocery-home .text-wrapper-86 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "DM Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #9c4b00;
+  font-size: 34.8px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-87 {
+  position: absolute;
+  top: 9604px;
+  left: 898px;
+  font-family: "DM Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #5f5471;
+  font-size: 35.2px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .stressed-due-to-time {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 9675px;
+  left: 950px;
+}
+
+.grocery-home .satisfied-when-she {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 9675px;
+  left: 1103px;
+}
+
+.grocery-home .relieved-when-the {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 9675px;
+  left: 1255px;
+}
+
+.grocery-home .quickly-creates {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 9659px;
+  left: 137px;
+}
+
+.grocery-home .checks-product {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 9659px;
+  left: 286px;
+}
+
+.grocery-home .uses-search-and {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 9659px;
+  left: 438px;
+}
+
+.grocery-home .ellipse-3 {
+  position: absolute;
+  width: 299px;
+  height: 299px;
+  top: 10134px;
+  left: 569px;
+  object-fit: cover;
+}
+
+.grocery-home .i-need-to-buy {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 10006px;
+  left: 120px;
+}
+
+.grocery-home .how-can-i-organize {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 9972px;
+  left: 931px;
+}
+
+.grocery-home .we-cant-miss-any {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 10006px;
+  left: 266px;
+}
+
+.grocery-home .what-deals-can-i {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 9973px;
+  left: 1083px;
+}
+
+.grocery-home .i-want-to-save-money {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 10006px;
+  left: 412px;
+}
+
+.grocery-home .i-need-to-make-sure {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 9973px;
+  left: 1235px;
+}
+
+.grocery-home .text-wrapper-88 {
+  position: absolute;
+  top: 9942px;
+  left: 77px;
+  font-family: "DM Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #5f5471;
+  font-size: 31.8px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-89 {
+  position: absolute;
+  width: 101px;
+  top: 9908px;
+  left: 851px;
+  font-family: "DM Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 32.1px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .group-6 {
+  position: absolute;
+  width: 48px;
+  height: 45px;
+  top: 10378px;
+  left: 57px;
+}
+
+.grocery-home .text-wrapper-90 {
+  position: absolute;
+  top: 10378px;
+  left: 878px;
+  font-family: "DM Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #5f5471;
+  font-size: 35.2px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .overwhelmed-with {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 10449px;
+  left: 930px;
+}
+
+.grocery-home .happy-when-he-finds {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 10449px;
+  left: 1083px;
+}
+
+.grocery-home .concerned-about {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 10449px;
+  left: 1235px;
+}
+
+.grocery-home .creates-and-updates {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 10433px;
+  left: 117px;
+}
+
+.grocery-home .looks-for-discounts {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 10433px;
+  left: 266px;
+}
+
+.grocery-home .uses-in-store {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 10433px;
+  left: 418px;
+}
+
+.grocery-home .text-wrapper-91 {
+  top: 9053px;
+  position: absolute;
+  left: 60px;
+  font-family: "Titillium Web-Regular", Helvetica;
+  font-weight: 400;
+  color: #14ff00;
+  font-size: 30px;
+  letter-spacing: -0.57px;
+  line-height: 14.5px;
+  white-space: nowrap;
+}
+
+.grocery-home .text-wrapper-92 {
+  top: 9848px;
+  position: absolute;
+  left: 60px;
+  font-family: "Titillium Web-Regular", Helvetica;
+  font-weight: 400;
+  color: #14ff00;
+  font-size: 30px;
+  letter-spacing: -0.57px;
+  line-height: 14.5px;
+  white-space: nowrap;
+}
+
+.grocery-home .group-7 {
+  position: absolute;
+  width: 1460px;
+  height: 2809px;
+  top: 10650px;
+  left: 0;
+}
+
+.grocery-home .overlap-26 {
+  position: relative;
+  width: 1440px;
+  height: 2809px;
+  background-color: #ffffff;
+}
+
+.grocery-home .text-wrapper-93 {
+  top: 141px;
+  position: absolute;
+  left: 110px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #14ff00;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-94 {
+  top: 38px;
+  left: 615px;
+  line-height: normal;
+  position: absolute;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #27a82c;
+  font-size: 40px;
+  letter-spacing: 0;
+}
+
+.grocery-home .text-wrapper-95 {
+  position: absolute;
+  top: 1524px;
+  left: 615px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #27a82c;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .group-8 {
+  position: absolute;
+  width: 80px;
+  height: 75px;
+  top: 232px;
+  left: 99px;
+}
+
+.grocery-home .overlap-group-7 {
+  position: relative;
+  width: 78px;
+  height: 75px;
+  background-color: #ffffff;
+  border-radius: 39.22px/37.28px;
+  border: 1px solid;
+  border-color: #00ff38;
+}
+
+.grocery-home .text-wrapper-96 {
+  position: absolute;
+  top: 23px;
+  left: 10px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 21.5px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .group-9 {
+  position: absolute;
+  width: 80px;
+  height: 75px;
+  top: 680px;
+  left: 888px;
+}
+
+.grocery-home .text-wrapper-97 {
+  position: absolute;
+  top: 23px;
+  left: 18px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 21.5px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .group-10 {
+  position: absolute;
+  width: 60px;
+  height: 53px;
+  top: 521px;
+  left: 898px;
+}
+
+.grocery-home .overlap-27 {
+  position: relative;
+  width: 58px;
+  height: 53px;
+  background-color: #ffffff;
+  border-radius: 29px/26.5px;
+  border: 1px solid;
+  border-color: #00ff38;
+}
+
+.grocery-home .text-wrapper-98 {
+  position: absolute;
+  top: 15px;
+  left: 8px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 14.3px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.grocery-home .overlap-28 {
+  position: absolute;
+  width: 266px;
+  height: 196px;
+  top: 237px;
+  left: 197px;
+}
+
+.grocery-home .line {
+  position: absolute;
+  width: 91px;
+  height: 10px;
+  top: 32px;
+  left: 0;
+}
+
+.grocery-home .line-2 {
+  position: absolute;
+  width: 6px;
+  height: 90px;
+  top: 70px;
+  left: 135px;
+}
+
+.grocery-home .overlap-29 {
+  position: absolute;
+  width: 181px;
+  height: 164px;
+  top: 32px;
+  left: 85px;
+}
+
+.grocery-home .overlap-30 {
+  position: absolute;
+  width: 91px;
+  height: 151px;
+  top: 0;
+  left: 90px;
+}
+
+.grocery-home .line-3 {
+  position: absolute;
+  width: 91px;
+  height: 10px;
+  top: 0;
+  left: 0;
+}
+
+.grocery-home .line-4 {
+  position: absolute;
+  width: 2px;
+  height: 155px;
+  top: 0;
+  left: 47px;
+}
+
+.grocery-home .overlap-31 {
+  position: absolute;
+  width: 140px;
+  height: 25px;
+  top: 139px;
+  left: 0;
+}
+
+.grocery-home .line-5 {
+  position: absolute;
+  width: 40px;
+  height: 1px;
+  top: 12px;
+  left: 100px;
+}
+
+.grocery-home .group-11 {
+  position: absolute;
+  width: 102px;
+  height: 25px;
+  top: 0;
+  left: 0;
+}
+
+.grocery-home .overlap-32 {
+  position: relative;
+  width: 100px;
+  height: 25px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #00ff38;
+}
+
+.grocery-home .text-wrapper-99 {
+  position: absolute;
+  top: 4px;
+  left: 27px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 11.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .group-12 {
+  position: absolute;
+  width: 71px;
+  height: 64px;
+  top: 0;
+  left: 100px;
+}
+
+.grocery-home .overlap-33 {
+  position: relative;
+  width: 69px;
+  height: 64px;
+  background-image: url(./img/polygon-1.svg);
+  background-size: 100% 100%;
+}
+
+.grocery-home .text-wrapper-100 {
+  position: absolute;
+  top: 25px;
+  left: 19px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 11.5px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-101 {
+  top: 108px;
+  left: 139px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 11.4px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .line-6 {
+  position: absolute;
+  width: 91px;
+  height: 10px;
+  top: 269px;
+  left: 577px;
+}
+
+.grocery-home .line-7 {
+  position: absolute;
+  width: 91px;
+  height: 10px;
+  top: 269px;
+  left: 785px;
+}
+
+.grocery-home .group-13 {
+  position: absolute;
+  width: 102px;
+  height: 25px;
+  top: 257px;
+  left: 883px;
+}
+
+.grocery-home .text-wrapper-102 {
+  position: absolute;
+  top: 4px;
+  left: 23px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 11.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .group-14 {
+  position: absolute;
+  width: 102px;
+  height: 25px;
+  top: 392px;
+  left: 883px;
+}
+
+.grocery-home .text-wrapper-103 {
+  position: absolute;
+  top: 4px;
+  left: 31px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 11.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .group-15 {
+  position: absolute;
+  width: 102px;
+  height: 25px;
+  top: 257px;
+  left: 472px;
+}
+
+.grocery-home .text-wrapper-104 {
+  position: absolute;
+  top: 4px;
+  left: 20px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 11.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .group-16 {
+  position: absolute;
+  width: 102px;
+  height: 25px;
+  top: 257px;
+  left: 677px;
+}
+
+.grocery-home .text-wrapper-105 {
+  top: 4px;
+  left: 32px;
+  font-size: 11.4px;
+  position: absolute;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-106 {
+  position: absolute;
+  top: 252px;
+  left: 406px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 11.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .line-8 {
+  position: absolute;
+  width: 10px;
+  height: 84px;
+  top: 299px;
+  left: 926px;
+}
+
+.grocery-home .line-9 {
+  position: absolute;
+  width: 10px;
+  height: 91px;
+  top: 423px;
+  left: 927px;
+}
+
+.grocery-home .line-10 {
+  position: absolute;
+  width: 10px;
+  height: 91px;
+  top: 582px;
+  left: 927px;
+}
+
+.grocery-home .text-wrapper-107 {
+  top: 841px;
+  position: absolute;
+  left: 110px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #14ff00;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .group-17 {
+  position: absolute;
+  width: 80px;
+  height: 75px;
+  top: 954px;
+  left: 99px;
+}
+
+.grocery-home .group-18 {
+  position: absolute;
+  width: 80px;
+  height: 75px;
+  top: 1365px;
+  left: 1059px;
+}
+
+.grocery-home .group-19 {
+  position: absolute;
+  width: 54px;
+  height: 49px;
+  top: 963px;
+  left: 1071px;
+}
+
+.grocery-home .overlap-34 {
+  position: relative;
+  width: 52px;
+  height: 49px;
+  background-color: #ffffff;
+  border-radius: 26px/24.71px;
+  border: 1px solid;
+  border-color: #00ff38;
+}
+
+.grocery-home .overlap-35 {
+  position: absolute;
+  width: 266px;
+  height: 196px;
+  top: 959px;
+  left: 197px;
+}
+
+.grocery-home .overlap-36 {
+  position: relative;
+  width: 69px;
+  height: 64px;
+  background-image: url(Polygon\ 1.png);
+  background-size: 100% 100%;
+}
+
+.grocery-home .line-11 {
+  position: absolute;
+  width: 91px;
+  height: 10px;
+  top: 991px;
+  left: 577px;
+}
+
+.grocery-home .line-12 {
+  position: absolute;
+  width: 91px;
+  height: 10px;
+  top: 991px;
+  left: 785px;
+}
+
+.grocery-home .group-20 {
+  position: absolute;
+  width: 102px;
+  height: 25px;
+  top: 1126px;
+  left: 876px;
+}
+
+.grocery-home .text-wrapper-108 {
+  position: absolute;
+  top: 4px;
+  left: 8px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 11.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .group-21 {
+  position: absolute;
+  width: 102px;
+  height: 25px;
+  top: 1114px;
+  left: 1051px;
+}
+
+.grocery-home .group-22 {
+  position: absolute;
+  width: 102px;
+  height: 25px;
+  top: 1236px;
+  left: 1051px;
+}
+
+.grocery-home .text-wrapper-109 {
+  position: absolute;
+  top: 4px;
+  left: 16px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 11.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .group-23 {
+  position: absolute;
+  width: 102px;
+  height: 25px;
+  top: 979px;
+  left: 472px;
+}
+
+.grocery-home .group-24 {
+  position: absolute;
+  width: 102px;
+  height: 25px;
+  top: 979px;
+  left: 677px;
+}
+
+.grocery-home .text-wrapper-110 {
+  top: 4px;
+  left: 13px;
+  font-size: 11.4px;
+  position: absolute;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-111 {
+  left: 406px;
+  position: absolute;
+  top: 974px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 11.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .line-13 {
+  position: absolute;
+  width: 6px;
+  height: 91px;
+  top: 1029px;
+  left: 920px;
+}
+
+.grocery-home .line-14 {
+  position: absolute;
+  width: 10px;
+  height: 91px;
+  top: 1018px;
+  left: 1097px;
+}
+
+.grocery-home .line-15 {
+  position: absolute;
+  width: 10px;
+  height: 91px;
+  top: 1142px;
+  left: 1098px;
+}
+
+.grocery-home .line-16 {
+  position: absolute;
+  width: 10px;
+  height: 91px;
+  top: 1264px;
+  left: 1098px;
+}
+
+.grocery-home .line-17 {
+  position: absolute;
+  width: 91px;
+  height: 10px;
+  top: 991px;
+  left: 960px;
+}
+
+.grocery-home .group-25 {
+  position: absolute;
+  width: 71px;
+  height: 64px;
+  top: 959px;
+  left: 885px;
+}
+
+.grocery-home .select-items-wrapper {
+  position: relative;
+  width: 69px;
+  height: 64px;
+  background-image: url(Polygon\ 1.png);
+  background-size: 100% 100%;
+}
+
+.grocery-home .select-items {
+  position: absolute;
+  top: 17px;
+  left: 19px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 11.5px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-112 {
+  top: 1067px;
+  left: 924px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 11.4px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .text-wrapper-113 {
+  left: 994px;
+  position: absolute;
+  top: 974px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 11.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .group-26 {
+  position: absolute;
+  width: 286px;
+  height: 59px;
+  top: 1653px;
+  left: 519px;
+}
+
+.grocery-home .overlap-37 {
+  position: relative;
+  width: 284px;
+  height: 59px;
+  background-color: #ffffff;
+  border: 2.75px solid;
+  border-color: #ff0000;
+}
+
+.grocery-home .text-wrapper-114 {
+  position: absolute;
+  top: 10px;
+  left: 63px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 27.5px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.grocery-home .group-27 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 1858px;
+  left: 11px;
+}
+
+.grocery-home .overlap-38 {
+  position: relative;
+  width: 147px;
+  height: 30px;
+  background-color: #ffffff;
+  border: 1.43px solid;
+  border-color: #4200ff;
+}
+
+.grocery-home .text-wrapper-115 {
+  top: 5px;
+  left: 48px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 14.3px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .group-28 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 1858px;
+  left: 262px;
+}
+
+.grocery-home .text-wrapper-116 {
+  position: absolute;
+  top: 5px;
+  left: 60px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 14.3px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.grocery-home .group-29 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 1983px;
+  left: 122px;
+}
+
+.grocery-home .overlap-39 {
+  position: relative;
+  width: 147px;
+  height: 30px;
+  background-color: #ffffff;
+  border: 1.43px solid;
+  border-color: #42ff00;
+  box-shadow: 4px 4px 4px #42ff0040;
+}
+
+.grocery-home .text-wrapper-117 {
+  position: absolute;
+  top: 5px;
+  left: 42px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 14.3px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.grocery-home .group-30 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 2139px;
+  left: 122px;
+}
+
+.grocery-home .text-wrapper-118 {
+  top: 5px;
+  left: 44px;
+  font-size: 14.3px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .group-31 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 2267px;
+  left: 122px;
+}
+
+.grocery-home .text-wrapper-119 {
+  position: absolute;
+  top: 5px;
+  left: 40px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 14.3px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.grocery-home .group-32 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 2417px;
+  left: 122px;
+}
+
+.grocery-home .group-33 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 2563px;
+  left: 122px;
+}
+
+.grocery-home .text-wrapper-120 {
+  top: 5px;
+  left: 50px;
+  font-size: 14.3px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .group-34 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 1858px;
+  left: 555px;
+}
+
+.grocery-home .group-35 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 1858px;
+  left: 838px;
+}
+
+.grocery-home .text-wrapper-121 {
+  left: 58px;
+  position: absolute;
+  top: 5px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 14.3px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.grocery-home .group-36 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 1858px;
+  left: 1156px;
+}
+
+.grocery-home .text-wrapper-122 {
+  position: absolute;
+  top: 5px;
+  left: 53px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 14.3px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.grocery-home .overlap-40 {
+  position: absolute;
+  width: 1157px;
+  height: 135px;
+  top: 1713px;
+  left: 74px;
+}
+
+.grocery-home .overlap-41 {
+  position: absolute;
+  width: 1157px;
+  height: 69px;
+  top: 66px;
+  left: 0;
+}
+
+.grocery-home .line-18 {
+  width: 1157px;
+  top: 2px;
+  position: absolute;
+  height: 1px;
+  left: 0;
+}
+
+.grocery-home .line-19 {
+  position: absolute;
+  width: 1px;
+  height: 68px;
+  top: 0;
+  left: 0;
+}
+
+.grocery-home .line-20 {
+  position: absolute;
+  width: 1px;
+  height: 68px;
+  top: 1px;
+  left: 262px;
+}
+
+.grocery-home .line-21 {
+  position: absolute;
+  width: 1px;
+  height: 68px;
+  top: 1px;
+  left: 554px;
+}
+
+.grocery-home .line-22 {
+  position: absolute;
+  width: 1px;
+  height: 68px;
+  top: 1px;
+  left: 837px;
+}
+
+.grocery-home .line-23 {
+  position: absolute;
+  width: 1px;
+  height: 68px;
+  top: 0;
+  left: 1156px;
+}
+
+.grocery-home .line-24 {
+  position: absolute;
+  width: 1px;
+  height: 68px;
+  top: 0;
+  left: 580px;
+}
+
+.grocery-home .line-25 {
+  position: absolute;
+  width: 4px;
+  height: 685px;
+  top: 1897px;
+  left: 70px;
+}
+
+.grocery-home .line-26 {
+  position: absolute;
+  width: 42px;
+  height: 10px;
+  top: 1998px;
+  left: 74px;
+}
+
+.grocery-home .line-27 {
+  position: absolute;
+  width: 42px;
+  height: 10px;
+  top: 2155px;
+  left: 74px;
+}
+
+.grocery-home .line-28 {
+  position: absolute;
+  width: 42px;
+  height: 10px;
+  top: 2286px;
+  left: 74px;
+}
+
+.grocery-home .group-37 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 1983px;
+  left: 383px;
+}
+
+.grocery-home .text-wrapper-123 {
+  position: absolute;
+  top: 5px;
+  left: 26px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 14.3px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.grocery-home .group-38 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 2139px;
+  left: 383px;
+}
+
+.grocery-home .text-wrapper-124 {
+  left: 52px;
+  position: absolute;
+  top: 5px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 14.3px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.grocery-home .group-39 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 2267px;
+  left: 383px;
+}
+
+.grocery-home .overlap-42 {
+  position: absolute;
+  width: 42px;
+  height: 390px;
+  top: 1897px;
+  left: 335px;
+}
+
+.grocery-home .line-29 {
+  position: absolute;
+  width: 1px;
+  height: 390px;
+  top: 0;
+  left: 0;
+}
+
+.grocery-home .line-30 {
+  width: 42px;
+  top: 101px;
+  position: absolute;
+  height: 10px;
+  left: 0;
+}
+
+.grocery-home .line-31 {
+  width: 42px;
+  top: 258px;
+  position: absolute;
+  height: 10px;
+  left: 0;
+}
+
+.grocery-home .line-32 {
+  width: 42px;
+  top: 385px;
+  position: absolute;
+  height: 10px;
+  left: 0;
+}
+
+.grocery-home .group-40 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 1983px;
+  left: 676px;
+}
+
+.grocery-home .text-wrapper-125 {
+  top: 5px;
+  left: 24px;
+  font-size: 14.3px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .group-41 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 2139px;
+  left: 676px;
+}
+
+.grocery-home .text-wrapper-126 {
+  top: 5px;
+  left: 28px;
+  font-size: 14.3px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .group-42 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 2267px;
+  left: 676px;
+}
+
+.grocery-home .text-wrapper-127 {
+  position: absolute;
+  top: 5px;
+  left: 36px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 14.3px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.grocery-home .overlap-43 {
+  position: absolute;
+  width: 42px;
+  height: 390px;
+  top: 1897px;
+  left: 629px;
+}
+
+.grocery-home .line-33 {
+  position: absolute;
+  width: 42px;
+  height: 10px;
+  top: 2432px;
+  left: 74px;
+}
+
+.grocery-home .group-43 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 1983px;
+  left: 964px;
+}
+
+.grocery-home .text-wrapper-128 {
+  left: 38px;
+  position: absolute;
+  top: 5px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 14.3px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.grocery-home .group-44 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 2139px;
+  left: 964px;
+}
+
+.grocery-home .text-wrapper-129 {
+  position: absolute;
+  top: 5px;
+  left: 31px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 14.3px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.grocery-home .group-45 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 2267px;
+  left: 964px;
+}
+
+.grocery-home .text-wrapper-130 {
+  position: absolute;
+  top: 5px;
+  left: 21px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 14.3px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.grocery-home .group-46 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 2417px;
+  left: 964px;
+}
+
+.grocery-home .text-wrapper-131 {
+  position: absolute;
+  top: 5px;
+  left: 29px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 14.3px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.grocery-home .overlap-44 {
+  position: absolute;
+  width: 42px;
+  height: 535px;
+  top: 1897px;
+  left: 916px;
+}
+
+.grocery-home .line-34 {
+  position: absolute;
+  width: 1px;
+  height: 535px;
+  top: 0;
+  left: 0;
+}
+
+.grocery-home .line-35 {
+  position: absolute;
+  width: 42px;
+  height: 10px;
+  top: 2428px;
+  left: 916px;
+}
+
+.grocery-home .line-36 {
+  position: absolute;
+  width: 42px;
+  height: 10px;
+  top: 2576px;
+  left: 70px;
+}
+
+.grocery-home .group-47 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 1983px;
+  left: 1282px;
+}
+
+.grocery-home .text-wrapper-132 {
+  position: absolute;
+  top: 5px;
+  left: 2px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 14.3px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.grocery-home .group-48 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 2139px;
+  left: 1282px;
+}
+
+.grocery-home .text-wrapper-133 {
+  position: absolute;
+  top: 5px;
+  left: 9px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 14.3px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.grocery-home .group-49 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 2267px;
+  left: 1282px;
+}
+
+.grocery-home .text-wrapper-134 {
+  position: absolute;
+  top: 5px;
+  left: 45px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 14.3px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.grocery-home .group-50 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 2417px;
+  left: 1282px;
+}
+
+.grocery-home .group-51 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 2563px;
+  left: 1282px;
+}
+
+.grocery-home .text-wrapper-135 {
+  position: absolute;
+  top: 5px;
+  left: 33px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 14.3px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.grocery-home .group-52 {
+  position: absolute;
+  width: 149px;
+  height: 30px;
+  top: 2674px;
+  left: 1282px;
+}
+
+.grocery-home .overlap-45 {
+  position: absolute;
+  width: 43px;
+  height: 792px;
+  top: 1897px;
+  left: 1234px;
+}
+
+.grocery-home .line-37 {
+  position: absolute;
+  width: 1px;
+  height: 792px;
+  top: 0;
+  left: 0;
+}
+
+.grocery-home .line-38 {
+  position: absolute;
+  width: 42px;
+  height: 10px;
+  top: 535px;
+  left: 0;
+}
+
+.grocery-home .line-39 {
+  position: absolute;
+  width: 42px;
+  height: 10px;
+  top: 683px;
+  left: 0;
+}
+
+.grocery-home .line-40 {
+  position: absolute;
+  width: 42px;
+  height: 10px;
+  top: 788px;
+  left: 0;
+}
+
+.grocery-home .text-wrapper-136 {
+  position: absolute;
+  width: 265px;
+  top: 13505px;
+  left: 585px;
+  font-family: "Titillium Web-Bold", Helvetica;
+  font-weight: 700;
+  color: #27a82c;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .group-53 {
+  position: absolute;
+  width: 1344px;
+  height: 239px;
+  top: 13597px;
+  left: 48px;
+}
+
+.grocery-home .line-41 {
+  position: absolute;
+  width: 1116px;
+  height: 4px;
+  top: 14092px;
+  left: 162px;
+}
+
+.grocery-home .text-wrapper-137 {
+  position: absolute;
+  top: 14145px;
+  left: 235px;
+  font-family: "Titillium Web-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.grocery-home .frame-4 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 14242px;
+  left: 573px;
+}
+
+.grocery-home .frame-5 {
+  position: absolute;
+  width: 44px;
+  height: 44px;
+  top: 14251px;
+  left: 708px;
+}
+
+.grocery-home .frame-6 {
+  position: absolute;
+  width: 47px;
+  height: 47px;
+  top: 14248px;
+  left: 837px;
+}
+
+.grocery-home .group-54 {
+  position: absolute;
+  width: 389px;
+  height: 55px;
+  top: 13902px;
+  left: 534px;
+}
+
+.grocery-home .overlap-46 {
+  position: relative;
+  width: 387px;
+  height: 55px;
+  background-color: #4cacf2;
+  border-radius: 30px;
+  box-shadow: 5px 5px 5px #00000040;
+}
+
+.grocery-home .text-wrapper-138 {
+  position: absolute;
+  top: 6px;
+  left: 80px;
+  font-family: "Open Sans-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 42.5px;
+  white-space: nowrap;
+}
